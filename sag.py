@@ -1,3 +1,5 @@
 name=input("enter your name: ")
 surname=input("enter the sur name:")
+info=input("enter info")
 print("your details are...",name+""+surname)
+print("your details are...",name+""+surname,"other info is: ",info+)
